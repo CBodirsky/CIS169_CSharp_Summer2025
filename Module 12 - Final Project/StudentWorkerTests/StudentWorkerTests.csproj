@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Inheritance\Inheritance.csproj" />
+    <ProjectReference Include="..\FinalProject\FinalProject.csproj" />
   </ItemGroup>
 
   <ItemGroup>
